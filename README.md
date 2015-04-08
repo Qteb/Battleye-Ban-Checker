@@ -1,5 +1,5 @@
 # Battleye Ban Checker
-This tool scans steam config file for steam ids and check if they are banned.
+This tool scans steam config file for steam ids and check if they are banned. :sob:
 
 Just because your steam id isn’t banned doesn’t mean your key isn’t banned (bans before arma dropped GameSpy).
 
