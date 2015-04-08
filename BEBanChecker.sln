@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Battleye-Ban-Checker", "Battleye-Ban-Checker\Battleye-Ban-Checker.csproj", "{EC526244-8FB0-462D-907F-312F72B0FC4A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEBanChecker", "BEBanChecker\BEBanChecker.csproj", "{EC526244-8FB0-462D-907F-312F72B0FC4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEBanChecker.Tests", "BEBanChecker.Tests\BEBanChecker.Tests.csproj", "{436A78D9-D6D5-4D29-A4F9-AC706259A1F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EC526244-8FB0-462D-907F-312F72B0FC4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC526244-8FB0-462D-907F-312F72B0FC4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC526244-8FB0-462D-907F-312F72B0FC4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{436A78D9-D6D5-4D29-A4F9-AC706259A1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436A78D9-D6D5-4D29-A4F9-AC706259A1F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436A78D9-D6D5-4D29-A4F9-AC706259A1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436A78D9-D6D5-4D29-A4F9-AC706259A1F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

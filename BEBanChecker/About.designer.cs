@@ -1,4 +1,4 @@
-﻿namespace Battleye_Ban_Checker
+﻿namespace BEBanChecker
 {
     partial class About
     {
@@ -75,7 +75,7 @@
             // pictureBox1
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
-            this.pictureBox1.Image = global::Battleye_Ban_Checker.Properties.Resources.aboutBackground;
+            this.pictureBox1.Image = global::BEBanChecker.Properties.Resources.aboutBackground;
             this.pictureBox1.InitialImage = null;
             this.pictureBox1.Location = new System.Drawing.Point(-87, -80);
             this.pictureBox1.Name = "pictureBox1";

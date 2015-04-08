@@ -1,4 +1,4 @@
-﻿namespace Battleye_Ban_Checker
+﻿namespace BEBanChecker
 {
     partial class Main
     {

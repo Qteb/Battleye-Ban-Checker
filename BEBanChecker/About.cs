@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Battleye_Ban_Checker
+namespace BEBanChecker
 {
     public partial class About : Form
     {

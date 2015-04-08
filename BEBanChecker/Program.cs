@@ -7,9 +7,9 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Battleye_Ban_Checker
+namespace BEBanChecker
 {
-    static class Program
+    public class Program
     {
         [STAThread]
         static void Main()

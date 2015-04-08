@@ -11,7 +11,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Windows.Forms;
 
-namespace Battleye_Ban_Checker
+namespace BEBanChecker
 {
     public partial class Main : Form
     {
