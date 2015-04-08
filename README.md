@@ -4,8 +4,8 @@ This tool scans steam config file for steam ids and check if they are banned. :s
 Just because your steam id isn’t banned doesn’t mean your key isn’t banned (bans before arma dropped GameSpy).
 
 Supports:
-* Arma 2/3/SA
-* DayZ
+* Arma 2/3
+* DayZ Standalone
 
 ## Minimum Requirements
 * Windows Vista SP2 or Windows Server 2008 SP2 and above.
